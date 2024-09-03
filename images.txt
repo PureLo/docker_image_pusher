@@ -1,4 +1,4 @@
 --platform=linux/amd64 alpine:3.17
 #支持私库
 #支持指定架构
---platform=linux/amd64 appdynamics/machine-agent-arm64
+--platform=linux/arm64 appdynamics/machine-agent-arm64
