@@ -1,3 +1,4 @@
+--platform=linux/amd64  grafana/grafana
 --platform=linux/amd64  prom/prometheus
 #--platform=linux/amd64  lanol/filecodebox
 #支持私库
