@@ -1,4 +1,5 @@
---platform=linux/amd64  lanol/filecodebox
+--platform=linux/amd64  prom/prometheus
+#--platform=linux/amd64  lanol/filecodebox
 #支持私库
 #支持指定架构
 #--platform=linux/arm64 appdynamics/machine-agent-arm64
